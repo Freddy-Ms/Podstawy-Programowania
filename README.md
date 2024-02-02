@@ -1,3 +1,3 @@
-Podstawy Programowania \\
-Informatyczne Systemy Automatyki \\
+Podstawy Programowania \
+Informatyczne Systemy Automatyki \
 I rok I semestr
